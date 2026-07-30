@@ -1,4 +1,4 @@
-package ArrayAndArrayList;
+package ArrayAndArrayList.Arrays;
 public class AboutMainMethod{
     public static void main(String[] args){
         System.out.println(args[1]);/*Input the value for String[] when you call the java file eg:

@@ -1,4 +1,4 @@
-package ArrayAndArrayList;
+package ArrayAndArrayList.Arrays;
 //2D array
 import java.util.*;
 public class Array2D {
