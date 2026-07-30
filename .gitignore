@@ -1,0 +1,20 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA
+.idea/
+
+# VS Code
+.vscode/
+
+# Eclipse
+bin/
+
+# Maven
+target/
+
+# Gradle
+build/
